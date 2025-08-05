@@ -10,11 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/emyaandrade/simulador-de-corridas-do-mario-kart.git"
   },
-  "keywords": ["simulador de corridas", "desafio bootcamp dio", "desafio Mario Kart"],
+  "keywords": [
+    "simulador de corridas",
+    "desafio bootcamp dio",
+    "desafio Mario Kart"
+  ],
   "author": "Emilly Andrade",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/emyaandrade/simulador-de-corridas-do-mario-kart/issues"
   },
-  "homepage": "https://github.com/emyaandrade/simulador-de-corridas-do-mario-kart#readme"
+  "homepage": "https://github.com/emyaandrade/simulador-de-corridas-do-mario-kart#readme",
+  "dependencies": {
+    "chalk": "^5.5.0"
+  }
 }
